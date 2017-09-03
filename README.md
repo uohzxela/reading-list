@@ -15,3 +15,5 @@
 [Haskell Programming: From First Principles](http://haskellbook.com/) **Christopher Allen, Julie Moronuki**
 
 [Designing Data-Intensive Applications](http://dataintensive.net/) **Martin Kleppmann**
+
+[How does a relational database work](http://coding-geek.com/how-databases-work/) **Christophe Kalenzaga**
