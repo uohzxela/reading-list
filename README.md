@@ -2,7 +2,7 @@
 
 ## Reading
 
-[Learn You Some Erlang for great good!](http://learnyousomeerlang.com/) **Fred Hébert**
+[Learn You Some Erlang for Great Good!](http://learnyousomeerlang.com/) **Fred Hébert**
 
 [Design Patterns in Ruby](https://www.amazon.com/Design-Patterns-Ruby-Russ-Olsen/dp/0321490452) **Russ Olsen**
 
