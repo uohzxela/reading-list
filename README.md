@@ -6,6 +6,8 @@
 
 [Design Patterns in Ruby](https://www.amazon.com/Design-Patterns-Ruby-Russ-Olsen/dp/0321490452) **Russ Olsen**
 
+[Learn You a Haskell for Great Good!](http://learnyouahaskell.com/) **Miran Lipovača**
+
 ## Finished
 
 ## To Read
