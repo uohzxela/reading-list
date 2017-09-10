@@ -23,3 +23,7 @@
 [Write Yourself a Scheme in 48 Hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours) **Jonathan Tang**
 
 [High Performance Browser Networking](https://hpbn.co/) **Ilya Grigorik**
+
+[Use The Index, Luke!](http://use-the-index-luke.com/) **Markus Winand**
+
+[SQL Performance Explained](http://sql-performance-explained.com/) **Markus Winand**
