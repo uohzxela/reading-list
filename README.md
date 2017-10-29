@@ -6,6 +6,8 @@
 
 [Designing Data-Intensive Applications](http://dataintensive.net/) **Martin Kleppmann**
 
+[The Design of the UNIX Operating System](https://www.amazon.com/Design-UNIX-Operating-System/dp/0132017997) **Maurice J. Bach**
+
 ## Finished
 
 [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/) **Miran Lipovača**
