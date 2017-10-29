@@ -4,8 +4,6 @@
 
 [Design Patterns in Ruby](https://www.amazon.com/Design-Patterns-Ruby-Russ-Olsen/dp/0321490452) **Russ Olsen**
 
-[Haskell Programming: From First Principles](http://haskellbook.com/) **Christopher Allen, Julie Moronuki**
-
 [Designing Data-Intensive Applications](http://dataintensive.net/) **Martin Kleppmann**
 
 ## Finished
@@ -19,6 +17,8 @@
 > This book provides you with a set of guiding principles for writing clean code. Always keep your functions small and don't ever repeat yourself. Choose meaningful and consistent names. If you can follow these, you will write cleaner code than most developers out there. Remember, cleanliness is next to godliness.
 
 ## To Read
+
+[Haskell Programming: From First Principles](http://haskellbook.com/) **Christopher Allen, Julie Moronuki**
 
 [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) **Bartosz Milewski**
 
