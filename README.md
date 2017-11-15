@@ -35,3 +35,5 @@
 [SQL Performance Explained](http://sql-performance-explained.com/) **Markus Winand**
 
 [Learn You Some Erlang for Great Good!](http://learnyousomeerlang.com/) **Fred Hébert**
+
+[SQLite Database System Design and Implementation](https://play.google.com/store/books/details/Sibsankar_Haldar_SQLite_Database_System_Design_and?id=9Z6IQQnX1JEC&hl=en) **Sibsankar Haldar**
