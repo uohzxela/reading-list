@@ -37,3 +37,7 @@
 [Learn You Some Erlang for Great Good!](http://learnyousomeerlang.com/) **Fred Hébert**
 
 [SQLite Database System Design and Implementation](https://play.google.com/store/books/details/Sibsankar_Haldar_SQLite_Database_System_Design_and?id=9Z6IQQnX1JEC&hl=en) **Sibsankar Haldar**
+
+[Computer Systems: A Programmer's Perspective](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X) **Randal E. Bryant**
+
+[Designing Distributed Systems](http://shop.oreilly.com/product/0636920072768.do) **Brendan Burns**
