@@ -41,3 +41,5 @@
 [Computer Systems: A Programmer's Perspective](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X) **Randal E. Bryant**
 
 [Designing Distributed Systems](http://shop.oreilly.com/product/0636920072768.do) **Brendan Burns**
+
+[Beej's Guide to Network Programming](http://beej.us/guide/bgnet/html/single/bgnet.html) **Brian "Beej Jorgensen" Hall**
